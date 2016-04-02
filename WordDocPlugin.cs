@@ -20,7 +20,7 @@ namespace WordDoc
 
         public string Copyright
         {
-            get { return "Copyright © Nate Shoffner 2014"; }
+            get { return "Copyright © Nate Shoffner 2016"; }
         }
 
         public string Description
@@ -30,7 +30,7 @@ namespace WordDoc
 
         public string DisplayName
         {
-            get { return "Word File support"; }
+            get { return "WordDoc"; }
         }
 
         public TabsterVersion Version
